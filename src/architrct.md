@@ -1,4 +1,4 @@
-# Softwarearchetektur 
+# Architect 
 
 **TODO:**
 
