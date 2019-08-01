@@ -1,5 +1,9 @@
 # :book: `quickuv-doc`
 
+[![travis build Status](https://travis-ci.com/lar-rs/uvtc.svg?branch=master)](https://travis-ci.com/lar-rs/wqa)
+
+![Minimum Rust Version][min-rust-badge]
+
 QuickTOCuv-2.0 Handbuch
 
 * [online here][ghpage]
