@@ -1,5 +1,6 @@
 [book]
 authors = ["Sascha Smolkov"]
-multilingual = false
+multilingual = true
 src = "src"
+title = "Handbook QuickTOCuv"
 

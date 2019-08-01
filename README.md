@@ -2,8 +2,8 @@
 
 QuickTOCuv-2.0 Handbuch
 
-[online here][book]
-
+* [online here][ghpage]
+* [issues][issues]
 
 ## Building the Book
 
@@ -40,4 +40,4 @@ $ mdbook serve
 [mdbook]: https://github.com/rust-lang-nursery/mdBook
 [rustup]: https://github.com/rust-lang-nursery/rustup.rs/
 [ghpage]: https://lar-rs.github.io/quickuv-doc/
-[book-issues]: https://github.com/lar-rs/quickuv-doc/issues
+[issues]: https://github.com/lar-rs/quickuv-doc/issues
